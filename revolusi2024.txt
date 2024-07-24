@@ -2,3 +2,4 @@ list makanan
 1.bakso
 2.mie ayam
 4.soto
+5.sate
