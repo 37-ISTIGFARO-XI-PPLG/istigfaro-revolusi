@@ -1,5 +1,4 @@
 list makanan
 1.bakso
 2.mie ayam
-3.seblak
 4.soto
